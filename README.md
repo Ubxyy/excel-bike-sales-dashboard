@@ -6,13 +6,13 @@ Interactive Excel dashboard analysing bike sales by metrics such as: demographic
 
 This project was my first step into data analysis using Excel. Starting from a dataset of bike buyers, I performed data cleaning, exploratory analysis, and finally created an interactive dashboard to explore bike sales patterns across different demographics and regions.
 
-It was important to me as it introduced me to important analysis techniques in Excel like removing duplicates to clean data, using pivot tables, and building dashboards with slicers/filters.
+It was important to me as it introduced me to common analysis techniques in Excel like removing duplicates to clean data, using pivot tables, and building dashboards with slicers/filters.
 
 ## Process
 
 - **Data Cleaning**: Removed duplicates, standardised data, categorised values (for example categorising middle aged as greater than 30 years of age, but less than 55), and corrected anomalous/erroneous data entries (e.g., trimming data inputted with extra spaces).  
 - **Exploratory Analysis**: Used pivot tables to explore relationships (income, region, age, commute, etc.).  
-- **Dashboard Creation**: Built an interactive Excel dashboard with slicers for filtering by marital status, home ownership, region, and education (this can be expanded upon).
+- **Dashboard Creation**: Built an interactive Excel dashboard with slicers for filtering by marital status, home ownership, region, and education (this can be expanded upon in the future).
 
 ## Dashboard Insights & Findings
 
