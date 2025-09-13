@@ -21,6 +21,12 @@ It was important to me as it introduced me to common analysis techniques in Exce
 - **Commute Distance** – Commute distance refers to how far customers typically travelled to work. Purchases declined as commute distance increased, suggesting bikes were less appealing to those with longer travels. 
 - **Regional Trends** – North America showed the highest number of purchases, followed by Europe and the Pacific region. Interestingly, in the **Pacific region**, more people purchased a bike than did not, making it the only region where buyers outnumbered non-buyers.
 
+## Dashboard Preview
+
+Below is a static screenshot of the interactive dashboard (Excel file included in this repository for full functionality):
+
+![Bike Sales Dashboard Screenshot](bike_sales_dash_screenshot.png)
+
 ## Lessons Learned
 
 One of the most important things I learnt quickly during this project was to **always create a working copy of the original dataset**. I duplicated the raw data sheet and performed all cleaning, categorisation, and analysis on the copy.  
